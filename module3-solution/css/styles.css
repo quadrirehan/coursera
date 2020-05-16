@@ -1,0 +1,49 @@
+body{
+	color: #000000;
+	font-weight: bold;
+}
+
+#header-nav{
+	background-color: #808080eb;
+	border-radius: 0;
+	height: 100px;
+	border: 2px solid #000000;
+
+}
+
+.navbar-brand a{
+	text-decoration: none;
+}
+
+.navbar-brand h1{
+	color: #000000;
+	font-weight: bold;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 2px solid #000000;
+}
+
+.navbar-header button.navbar-toggle{
+	clear: both;
+	margin-top: -20px;
+}
+
+#nav-list{
+	background-color: #ad9b6d;
+	text-align: center;
+	margin-top: 10px;
+}
+
+#nav-list a{
+	border: 1px solid #000000;	
+}
+
+h2{
+	margin: 15px auto 30px;
+}
+
+section{
+	background-color: #808080eb;
+	margin-top: 10px;
+}
